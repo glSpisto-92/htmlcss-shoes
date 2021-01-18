@@ -9,6 +9,8 @@ body{
   background-color: red;
 }
 
+
+/* inizio sezione scrollbar/menu */
 header{
   text-align:right;
   position: sticky;
@@ -32,7 +34,10 @@ header{
 li a{
   text-decoration: none;
 }
+/* fine sezione scrollbar/menu */
 
+
+/* inizio sezioni shoes */
 section{
   height: 100vh;
   position: relative;
@@ -65,3 +70,4 @@ h2{
 #special{
   color: green;
 }
+/* fine sezioni shoes */
